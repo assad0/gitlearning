@@ -1,1 +1,2 @@
 lorem ipsum
+line 2
